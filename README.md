@@ -1,7 +1,7 @@
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
-<img align="left" alt="logo"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"><br>
+<img align="center" alt="logo"  src="https://media.licdn.com/dms/image/C4D12AQGUDYHNP5wI-g/article-cover_image-shrink_600_2000/0/1605099935297?e=2147483647&v=beta&t=5QT0IibAQ5bWohadCxwFnPqv-fmxI08zAhQwQ6KxgcI"><br>
 
 <h1 align="center">Hi 👋 I'm Ajdahim Mohammed Amine</h1>
 <h3 align="center">A Full Stack Developer </h3>
